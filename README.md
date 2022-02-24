@@ -30,15 +30,4 @@ this is the UI for the plant selling shop
     "react-native-vector-icons": "^9.1.0",
     "react-native-web": "0.17.1"
 
-## SCREENSHOTS
-==================
 
-
-```
-<h1>watch video demo below</h1>
-
-
-[![Watch the video](https://img.youtube.com/vi/fOIlYCcD4jQ/maxresdefault.jpg)](https://youtu.be/fOIlYCcD4jQ)
-
-<img src="./1.PNG">
-<img src="./2.PNG">
